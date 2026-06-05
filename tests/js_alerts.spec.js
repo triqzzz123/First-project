@@ -42,5 +42,5 @@ test('Handling JS alerts', async ({ page }) => {
     await page.locator('#react-select-2-input').click();
     await page.locator('text=Another root option').click();
     await page.waitForTimeout(4000);
-//})
+})
 
