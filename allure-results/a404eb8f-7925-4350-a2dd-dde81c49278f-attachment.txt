@@ -1,3 +1,0 @@
-Prompt Accepted
-prompt
-Please enter your name
