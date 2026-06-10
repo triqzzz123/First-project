@@ -37,7 +37,7 @@ test('Handling JS alerts', async ({ page }) => {
 
 
 
-/*test('Dropdown 2', async ({ page }) => {
+test('Dropdown 2', async ({ page }) => {
     await page.goto('https://demoqa.com/select-menu');
     await page.locator('#react-select-2-input').click();
     await page.locator('text=Another root option').click();
